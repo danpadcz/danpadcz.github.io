@@ -1,8 +1,8 @@
 <html>
 
 <head>
-    <link rel="icon" type="image/png" href="images/jobusmall.jpeg">
-    <title>Dan - blog</title>
+    <link rel="icon" type="image/png" href="assets/jobusmall.jpeg">
+    <title>Dan - {{ page.title }}</title>
     <link href="/css/ilikegreen.css" rel="stylesheet">
 </head>
 
@@ -11,10 +11,14 @@
         <h1>Hi! I'm Dan and welcome to my website!</h1>
         <nav>
             <a href="/index.html">home</a> |
-            <a href="/blogisek/index.html">blog</a> |
-            <a href="/imsoproffessional.html">proffessional stuff</a> |
+            <a href="/imsoprofessional.html">proffessional stuff</a> |
             <a href="/contactmeee.html">contact me</a> 
         </nav>
     </header>
-</body> 
-</html> 
+    {{ content }}
+    <!-- <footer id="site_footer">
+        <p>hi :]</p>
+    </footer> -->
+</body>
+
+</html>
