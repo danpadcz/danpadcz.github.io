@@ -1,3 +1,7 @@
+---
+title: my silly little photos!
+layout: ilikegreen
+---
 I am extremely new to photography and especially film photography, but I've discovered I 
 really enjoy messing around with my photos in gimp and so here are some of my favourite
 photos I've made! 
