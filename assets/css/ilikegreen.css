@@ -35,20 +35,29 @@ header {
 }
 .website-content {
     padding: 10px;
-    width: 600px;
+    width: 1300px;
 }
 .index {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     justify-content: space-around;
-    align-items: flex-start;
+    gap: 2rem;
+}
+.index__picture {
+    justify-self: center;
+    flex: 1 1 0px;
+    width: 0;
+}
+.index_text {
+    flex: 1 1 0px;
+    width: 0;
 }
 
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 1300px) {
     .website-content {
-        width: 100%;
+        width: 90%;
     }
     .index {
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
 }
