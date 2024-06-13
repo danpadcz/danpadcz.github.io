@@ -1,6 +1,6 @@
 body {
     background-color: darkolivegreen;
-    color: white
+    color: white;
 }
 p {
     color: white;
@@ -25,11 +25,30 @@ header {
     margin-top: 20px;
     border-top: 1px solid white;
 }
-#site_footer  > *{
+#site_footer > * {
     text-align: center;
 }
 #site_header {
     border-bottom: 1px solid white;
     padding-bottom: 5px;
     margin-bottom: 25px;
+}
+.website-content {
+    padding: 10px;
+    width: 600px;
+}
+.index {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+@media screen and (max-width: 600px) {
+    .website-content {
+        width: 100%;
+    }
+    .index {
+        flex-direction: column-reverse;
+    }
 }
