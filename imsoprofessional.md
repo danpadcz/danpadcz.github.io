@@ -7,7 +7,7 @@ Currently I'm studying bachelor Informatics at FI MUNI, where I am in my final y
 If you're interested, you can explore my [github here](https://github.com/danpadcz) (there's not much there though), my [linkedin here](https://linkedin.com/in/daniel-padrta) or just send me [an email](mailto:website@danielpadrta.cz) :)
 
 
-#### Keywords if you don't to read it all :P
+#### Keywords if you don't want to read it all :P
 
 Linux, Bash, Python, Git, C, Java, Go, Typescript, React, CSS+HTML, SQL, Perl
 
