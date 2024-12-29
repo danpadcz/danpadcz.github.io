@@ -26,5 +26,6 @@ I have been an intern at the NLP firm Lexical Computing in the second half of 20
 
 Next I also worked at AT&T as an intern, which I enjoyed a lot. I learnt a lot about how email works, learnt some Perl, wrote a lot of Bash scripts and decided to learn how to use Vim finally (I'm still learning lol).
 
-I have also volunteered at a student organisation translated into english as the Friends of nordic animals society (Spolek přátel severské zvěře), where I help run a online informatics seminar for high schoolers, a weekend event at FI MU made to promote the faculty and informatics to high scoolers and I took part of organising the online cipher contest InterLoS one year.
+I have also volunteered at a student organisation translated into english as the Friends of nordic animals society (Spolek přátel severské zvěře), where I helped run a online informatics seminar for high schoolers, a weekend event at FI MU made to promote the faculty and informatics to high scoolers and I took part of organising the online cipher contest InterLoS one year.
+
 At this organisation I mostly learned what it means to have responsibility of parts of an event, how to communicate with people (both inside and outsite the organisation) to make sure an event can run smoothly, create real life games, explain various informatics topics in a simple way, improvise in real time, present a task/concept to people and much more :D
