@@ -18,7 +18,7 @@ Most of my coding is done in Python, but I also sometimes use C, Go and Java. I 
 
 I would say I am proficient at using git, since I finally recently learned how to fix issues in my git repos without deleting and re-cloning them! Exciting!! :DD
 
-I also a fluent English speaker (I have a CAE certificate too) and my mother-tongue is Czech. My German skills are good enough, where I can communicate with locals if they speak Hochdeutsch and slightly more simply for me (I have a B1 level certificate from the Österreich Institut).
+I am also a fluent English speaker (I have a CAE certificate too) and my mother-tongue is Czech. My German skills are good enough, where I can communicate with locals if they speak Hochdeutsch and slightly more simply for me (I have a B1 level certificate from the Österreich Institut).
 
 #### Previous experience
 
