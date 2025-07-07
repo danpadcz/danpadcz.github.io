@@ -2,6 +2,6 @@
 title: the charli xcx album from 2020 ofc
 layout: ilikegreen
 ---
-As of April 2025 I am finally finished with my bachelor studies and I'm nervously waiting for masters applications results to drop!! 
+Currently as of July 2025 I am going through the struggle of looking for housing in Munich .\_. so if you know about anything, please let me know!
 
-Also currently obsessed with music by Martin Luke Brown and Oklou! If you have any music recs like them then pls let me know. I don't have any algorithmic recs for music so I'm pretty blind rn :P
+Otherwise I'm currently reading and loving the Murderbot book series (and TV show)! Its such fun sci-fi and I truly missed reading scifi set in a cyberpunk-ish dystopia :D
