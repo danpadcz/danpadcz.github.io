@@ -2,6 +2,6 @@
 title: the charli xcx album from 2020 ofc
 layout: ilikegreen
 ---
-Currently as of July 2025 I am going through the struggle of looking for housing in Munich .\_. so if you know about anything, please let me know!
+Moving to munich soon!!!! very exciting!!!!
 
-Otherwise I'm currently reading and loving the Murderbot book series (and TV show)! Its such fun sci-fi and I truly missed reading scifi set in a cyberpunk-ish dystopia :D
+Also i recently read 1984 and it blew my mind, I really understand the hype now. The worldbuilding and everything was amazing! I definitely recommend (as does literally everyone else).
