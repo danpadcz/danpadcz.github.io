@@ -1,0 +1,37 @@
+body {
+    background-color: darkolivegreen;
+    color: white
+}
+p {
+    color: white;
+    text-align: justify;
+}
+a {
+    color: yellow;
+}
+a:visited {
+    color: yellow;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: yellow;
+}
+header {
+    text-align: center;
+}
+#site_footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid white;
+    text-align: center;
+}
+#site_footer > p {
+    text-align: center;
+}
+#site_header {
+    border-bottom: 1px solid white;
+    padding-bottom: 5px;
+    margin-bottom: 25px;
+}
